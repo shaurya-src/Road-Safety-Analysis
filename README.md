@@ -18,8 +18,8 @@ UK Road Accident Safety Data (2005-14): http://data.dft.gov.uk.s3.amazonaws.com/
 ## How to run?
 
 ```
-1. Clone the Repository to your system. <br>
-2. Download the Dataset from given link. <br>
-3. Add the dataset files to same directory <br>
+1. Clone the Repository to your system.
+2. Download the Dataset from given link.
+3. Add the dataset files to same directory.
 4. Open the Jupyter Notebook file and execute.
 ```
